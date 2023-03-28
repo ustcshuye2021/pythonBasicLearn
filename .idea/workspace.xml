@@ -5,25 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4374b3de-db12-4de5-8f98-6264ba144962" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/Ch2/ch2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch2/ch2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch2/ch2_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch2/ch2_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3/ch3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3/ch3_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3/ch3_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3/ch3_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3/ch3_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3/ch3_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3/ch3_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3/ch3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3/ch3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3/ch3_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3/ch3_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3/ch3_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3/ch3_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3/ch3_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch3/ch3_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch4/ch4_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch4/ch4_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch4/ch4_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch4/ch4_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch4/ch4_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch4/ch4_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch4/ch4_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch4/ch4_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch4/ch4_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch4/ch4_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch4/ch4_11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +48,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/repository/pythonBasicLearn/Ch2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/repository/QtPySide6GUI&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Confirmation&quot;
   }
 }</component>
