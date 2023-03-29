@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4374b3de-db12-4de5-8f98-6264ba144962" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/Ch4/ch4_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch4/ch4_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch4/ch4_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch4/ch4_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch4/ch4_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch4/ch4_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch4/ch4_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch4/ch4_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch4/ch4_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch4/ch4_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ch4/ch4_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch5/ch5_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch5/ch5_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch5/ch5_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch5/ch5_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch5/ch5_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch5/ch5_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch5/ch5_07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ch3_4" />
         <item itemvalue="Python.ch3_12" />
         <item itemvalue="Python.ch3_7" />
         <item itemvalue="Python.ch3_6" />
         <item itemvalue="Python.ch3_5" />
-        <item itemvalue="Python.ch3_4" />
       </list>
     </recent_temporary>
   </component>
